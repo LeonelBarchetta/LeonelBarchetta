@@ -1,8 +1,7 @@
 ### 
 <div align="center">
-  <div style="width:480px">
-    <iframe allow="fullscreen" frameBorder="0" height="320"  src="https://giphy.com/embed/u2wg2uXJbHzkXkPphr/video" width="480">        </iframe>
-  </div>
+  <img src="https://giphy.com/clips/studiosoriginals-sleep-tired-sleepy-u2wg2uXJbHzkXkPphr" width="200" />
+  
   <h1>
     Hi👋, i'm Leonel
   </h1>
