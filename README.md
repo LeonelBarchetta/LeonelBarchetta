@@ -23,6 +23,9 @@
 
 <hr>
 proyecto de portafolio:
+
   -diseño: https://www.behance.net/gallery/169202529/Personal-Portfolio-Website-Design
-  -pagina: 
+  
+  -pagina: https://leonelbarchetta.github.io/TPFINAL1/
+  
   -descripcion: Elegi el diseño por la estetica sencilla y la informacion concreta que presentaba. En mi consideracion se logro captar la estetica de la pagina y presenta un buen portafolio. 
